@@ -1,7 +1,7 @@
 # Action Tubelet Detection in AVA
 In this project we have adapted the Action Tubelet Detector [1], presented at ICCV17 for the Atomic Visual Action dataset from Google  [2].
 
-The code is a modified version of [https://github.com/jinwchoi/awesome-action-recognition] with the changes required to adapt the code for a new dataset.
+The code is a modified version of [https://github.com/vkalogeiton/caffe/tree/act-detector] with the changes required to adapt the code for a new dataset.
 
 To use this code, follow the instructions from the github of the authors of the ACT and generate the metadata needed with the AVA dataset using `generate_ACT_metadata_AVA.py`
 
